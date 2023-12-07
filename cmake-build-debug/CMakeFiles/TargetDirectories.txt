@@ -1,3 +1,3 @@
-C:/Users/saurom/CLionProjects/codeleet/cmake-build-debug/CMakeFiles/codeleet.dir
-C:/Users/saurom/CLionProjects/codeleet/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/saurom/CLionProjects/codeleet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/saurom/code_leet_test/cmake-build-debug/CMakeFiles/codeleet.dir
+/home/saurom/code_leet_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/saurom/code_leet_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
